@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+review.md
+review.json
